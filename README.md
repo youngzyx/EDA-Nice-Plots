@@ -3,6 +3,6 @@
 This repo is a collection of some nice EDA and data visualization I have done.
 
 Here are some selected plots from this repo.
-[[pic/Revenue.png|width=200px]]
+<img src = 'pic/Revenue.png' width='200'>
 
 [Notebook](notebook/charts_redesign.ipynb)
